@@ -71,7 +71,7 @@ This framework is one instrument in a connected portfolio on governance — of c
 - **The Pattern Commons series** — reusable, versioned governance patterns extracted from working prototypes.
 - **Writing on AI governance and worker data sovereignty** — the argument that the governance infrastructure institutions built for themselves should exist on the worker's side of the seam, backed by working local-first prototypes.
 
-All at [jediwright.com](https://www.jediwright.com).
+All at [jediwright.com](https://www.jediwright.com) and [systemsofthought.com](https://www.systemsofthought.com).
 
 ---
 
