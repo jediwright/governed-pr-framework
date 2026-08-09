@@ -3,6 +3,7 @@
 **Namespace IRI:** `https://jediwright.github.io/governed-pr-framework/vocab/gprf/0.4#`
 
 **Framework:** [Governed PR Framework](https://github.com/jediwright/governed-pr-framework)
+
 **Date declared:** 2026-08-09
 
 ---
