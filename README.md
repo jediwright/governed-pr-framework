@@ -4,7 +4,7 @@ A lightweight PR framework that scales review rigor by **blast radius, not line 
 
 The framework enforces three properties through every PR: **Clarity** (the reviewer reads intent off the description, not out of the diff), **Consistency** (the bar does not move with deadline pressure, author, or reviewer), and **Credibility** (no claim passes untagged).
 
-**v0.3** — stress-tested through adversarial review; in use at [UX Minds, LLC](https://www.jediwright.com).
+**v0.4** — alias mapping amendment applied (GPRF vocabulary namespace live); in use at [UX Minds, LLC](https://www.jediwright.com).
 
 ---
 
