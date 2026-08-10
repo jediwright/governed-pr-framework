@@ -31,6 +31,14 @@ Derivative-local customizations never flow back upstream. If you discover an imp
 
 ---
 
+## In use
+
+| Repo | Adopted | Notes |
+| ---- | ------- | ----- |
+| [`employment-seam`](https://github.com/jediwright/employment-seam) | v0.3 | First derivative deployment; `CONTRIBUTING.md` + PR template adopted from v0.3; GPRF vocabulary (`gprf:verificationTag`) in active use via `seam:CrossingRecord` base shape (v0.4) |
+
+---
+
 ## The two things that surprise people
 
 - **Small ≠ Low-risk.** A one-line schema change is Critical. A 300-line test file is Low-risk. Tier is about how far a failure would spread, not how much work went in.
