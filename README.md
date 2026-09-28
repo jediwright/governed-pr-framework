@@ -26,7 +26,7 @@ This document is the **parent**. To use it in your repo:
 
 1. Copy `QUICKSTART.md` and `.github/PULL_REQUEST_TEMPLATE.md` into your repo as-is.
 2. Create a `CONTRIBUTING.md` that declares your repo's protected surfaces, pre-cleared change classes, operating scale, and (if different from the 1 business day default) your emergency change window. `FRAMEWORK.md` §2–§3 defines what each of those means.
-3. Keep the one-line attribution at the bottom of `QUICKSTART.md` (*"Based on the Governed PR Framework v0.3 by J. Wright."*) and link it to this repo. `LINEAGE.md` does not ship with derivatives.
+3. Keep the one-line attribution at the bottom of `QUICKSTART.md` (*"Based on the Governed PR Framework v0.3 by Jedi Wright."*) and link it to this repo. `LINEAGE.md` does not ship with derivatives.
 
 Derivative-local customizations never flow back upstream. If you discover an improvement that belongs in the parent, open a PR here.
 

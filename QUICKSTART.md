@@ -55,4 +55,4 @@ Live incident, security response, something that can't wait for review? **Act fi
 
 *That's it. Full rules: the framework document. Why it's built this way: `LINEAGE.md`. Neither is required reading.*
 
-*Based on the Governed PR Framework v0.3 by J. Wright.*
+*Based on the Governed PR Framework v0.3 by Jedi Wright.*
