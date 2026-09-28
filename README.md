@@ -4,7 +4,7 @@ A lightweight PR framework that scales review rigor by **blast radius, not line 
 
 The framework enforces three properties through every PR: **Clarity** (the reviewer reads intent off the description, not out of the diff), **Consistency** (the bar does not move with deadline pressure, author, or reviewer), and **Credibility** (no claim passes untagged).
 
-**Version:** framework v0.3 (2026-08-06) · machine vocabulary v0.4 (2026-08-09). The framework text, quick start, and PR template are v0.3. The v0.4 release added only an optional machine-readable vocabulary (`vocab/gprf/0.4/`); nothing a contributor fills in changed. In use at [UX Minds, LLC](https://www.jediwright.com).
+**Version:** framework v0.3 (2026-08-06) · machine vocabulary v0.4 (2026-08-09). The framework text, quick start, and PR template are v0.3. The v0.4 release added only an optional machine-readable vocabulary (`vocab/gprf/0.4/`); nothing a contributor fills in changed. In use at UX Minds, LLC, as part of the [Seam Stack portfolio](https://github.com/jediwright/seam-stack/blob/main/BLUEPRINT.md).
 
 ---
 
