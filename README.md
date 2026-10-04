@@ -37,6 +37,8 @@ Derivative-local customizations never flow back upstream. If you discover an imp
 | Repo | Adopted | Notes |
 | ---- | ------- | ----- |
 | [`employment-seam`](https://github.com/jediwright/employment-seam) | framework v0.3 · vocabulary v0.4 | First derivative deployment; `CONTRIBUTING.md` + PR template adopted from v0.3; defines a GPRF verification record type in its crossing-record code (`keyhive-employment-seam/src/crossingRecord.ts`), following the v0.4 vocabulary |
+| [`local-first-social-network`](https://github.com/jediwright/local-first-social-network) | framework v0.4 | `CONTRIBUTING.md` + PR template adopted as a governed derivative |
+| [`local-first-social-native`](https://github.com/jediwright/local-first-social-native) | framework v0.3 | `.github/CONTRIBUTING.md` + PR template adopted as a governed derivative |
 
 ---
 
